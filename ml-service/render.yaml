@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: learnsmart-ml
+    env: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
