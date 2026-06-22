@@ -215,5 +215,18 @@ npm run dev
 
 ---
 
+## Author
+
+**Krishna**
+
+LearnSmart – AI-Powered Personalized Learning Platform
+
+Developed as a hackathon and portfolio project focused on personalized learning using Bayesian Knowledge Tracing (BKT), adaptive assessment with Item Response Theory (IRT), and explainable AI-driven recommendations.
+
+GitHub: https://github.com/Krishna-24-24
+
+---
+
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
